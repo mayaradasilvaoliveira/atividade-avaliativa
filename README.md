@@ -53,4 +53,4 @@ Para adicionar os colaboradores, estando com o repositório aberto no GitHub, v�
 # 
 # **<u>Boa prova a todos!</u>**
 
-Olá
+Olá.
